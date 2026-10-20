@@ -1,5 +1,5 @@
 # adzercms/centrifugo
 
-Centrifugo hub for AdzerCMS real-time page updates
+Live page updates for AdzerCMS through a Centrifugo server
 
 Read-only package repository: changes go to the monorepository https://github.com/adzercms/adzercms.
